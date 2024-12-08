@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="grpc-context-1.49.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/grpc-context-1.49.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

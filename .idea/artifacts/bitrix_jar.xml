@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="bitrix:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/bitrix_jar</output-path>
+    <root id="archive" name="bitrix.jar">
+      <element id="module-output" name="bitrix" />
+      <element id="library" level="project" name="json-20240303-javadoc" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/json-20240303.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/json-simple-1.1.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
